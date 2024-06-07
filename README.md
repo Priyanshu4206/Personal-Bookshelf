@@ -75,7 +75,7 @@ Make sure you have the following software installed on your local machine:
 
 ## Links
 
-- Live Site URL: [Personal Bookshelf]()
+- Live Site URL: [Personal Bookshelf](https://personal-bookshelf-rust.vercel.app/)
 
 ## Built with
 
